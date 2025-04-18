@@ -1,1 +1,2 @@
 This repo holds all of the projects, notes, and write-ups I have done while completing the Google Cybersecurity Professional Certificate. I will sum it up after i finish everything in the future
+This is a sum up after finish the certificate, the hype about doing this course can be count as preparing for compTIA+ network: not so much. However i do enjoy all the summary technical note in the course, better than most of my teacher's powerpoint. It is a good start if you planning to get into cyber security.
